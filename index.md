@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+<!DOCTYPE>
+<html>
+<head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/ayaanshahbaz/UFC-fighters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1> UFC Fighters </h1>
+<h2> All Divisions </h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p> Starting off with Light Weight, We have Khabib Nurmagomedov as the G.O.A.T and then the table ranking starts </p>
+<p><b> LIGHTWEIGHT RANKINGS </b></p>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-### Markdown
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<table>
+  <tr>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td>Dustin Piorier</td>
+  </tr>
+  <tr>
+    <td>Justin Gaethje</td>
+  </tr>
+  <tr>
+    <td>Charles Oliveira</td>
+   </tr>
+</table>
 
-- Bulleted
-- List
+<ol>
+  <li>Dustin Piorier</li>
+  <li>Justin Gaethje</li>
+  <li>Charles Oliveira</li>
+</ol> 
 
-1. Numbered
-2. List
+<p> Then we have the Welterweight, Kamaru Usman is the G.O.A.T and then the table ranking starts </p>
+<p><b> WELTERWEIGHT RANKINGS </b></p>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-**Bold** and _Italic_ and `Code` text
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
-[Link](url) and ![Image](src)
-```
+tr:nth-child(even) {
+  background-color: #0067EE;
+}
+</style>
+</head>
+<body>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<table>
+  <tr>
+    <th>Name</th>
+  </tr>
+  <tr>
+    <td>Colby Covington</td>
+  </tr>
+  <tr>
+    <td>Gilbert Burns</td>
+  </tr>
+  <tr>
+    <td>Leon Edwards</td>
+   </tr>
+</table
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayaanshahbaz/UFC-fighters/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<ol>
+  <li>Dustin Piorier</li>
+  <li>Justin Gaethje</li>
+  <li>Charles Oliveira</li>
+</ol> 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
+</body>
